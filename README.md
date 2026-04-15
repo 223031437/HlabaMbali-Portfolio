@@ -4,7 +4,7 @@ I am a passionate and motivated student developer with a strong interest in buil
 
 During my university journey, I have worked on multiple projects that strengthened my skills in:
 - Programming  
-- Problem-solving  
+- Critical thinking  
 - System design  
 
 I enjoy learning new technologies and creating solutions that solve real-world problems.
@@ -12,8 +12,7 @@ I enjoy learning new technologies and creating solutions that solve real-world p
 ---
 
 ## Skills
-- HTML, CSS, JavaScript  
-- Java / Python  
+- HTML / Java / Python  
 - SQL / Databases  
 - Git & GitHub  
 - Basic IoT Development  
@@ -21,8 +20,8 @@ I enjoy learning new technologies and creating solutions that solve real-world p
 ---
 
 ## Contact
-- Email: yourname@email.com  
-- GitHub: https://github.com/yourusername  
+- Email: abuimanimdala@gmail.com  
+- GitHub: https://github.com/223031437
 
 
 # Projects
@@ -57,7 +56,7 @@ A web-based application that simulates an online shopping experience where users
 A secure voting platform that allows users to vote digitally while preventing duplicate votes and ensuring data integrity.
 
 **Technologies Used:**
-- Java / Python  
+- Java   
 - SQL Database  
 
 **My Role:**
@@ -81,12 +80,12 @@ An IoT-based home automation system that allows users to control lights and appl
 **Technologies Used:**
 - Arduino / Raspberry Pi  
 - Sensors  
-- Web/Mobile Interface  
+- Web Interface  
 
 **My Role:**
 - Configured hardware  
-- Developed control logic  
-- Integrated UI  
+- Developed the house structure 
+    
 
 ### Link
 [View Project](#)
