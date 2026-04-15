@@ -43,7 +43,7 @@ A web-based application that simulates an online shopping experience where users
 - Connected database  
 
 ### Link
-[View Project](#)
+[View Project](https://github.com/223031437/Iconic-Ink)
 
 ### Screenshots
 ![E-commerce](assets/images/ecommerce-home.png)
