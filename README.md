@@ -88,7 +88,7 @@ An IoT-based home automation system that allows users to control lights and appl
     
 
 ### Link
-[View Project](#)
+[View Project](https://github.com/223031437/SmartHouse-IoT)
 
 ### Screenshots
 ![SmartHouse](assets/images/smarthouse-setup.png)
