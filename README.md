@@ -65,7 +65,7 @@ A secure voting platform that allows users to vote digitally while preventing du
 - Managed database  
 
 ###  Link
-[View Project](#)
+[View Project](https://github.com/223031437/GearUp-Voting)
 
 ### Screenshots
 ![Voting](assets/images/voting-dashboard.png)
